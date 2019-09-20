@@ -15,4 +15,6 @@ LUFA/StudioIntegration/ProjectGenerator/*
 LUFA/StudioIntegration/DocBook/*
 !LUFA/StudioIntegration/Docbook/mshelp/*
 Bootloaders/DFU/Keyboard.h
+Bootloaders/HID/Keyboard.h
 .vscode/ipch/
+.DS_Store
